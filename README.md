@@ -5,4 +5,4 @@
 | [Исследование надежности заемщиков](credit_analysis) | Исследования влияние различных факторов на возврат кредита | *numpy* *pandas* *matplotlib* *seaborn* |
 | [Определение закономерностей определяющих успешность игры.](game_sales_analysis) | Выяснить факторы влияющие на рейтинги и продажи игры. | *numpy* *pandas* *matplotlib* *seaborn* *scipy* |
 | [Предсказание коэффициента восстановления золота](gold_recovery_pred) | Построить модель машиного обучения, предсказывающую коэффициент восстановления золота из золотосодержащей руды. | *numpy* *pandas* *matplotlib* *seaborn* *sklearn* *catboost* |
-| [Предсказание ухода клиента в телекоме](telecom_churn_pred) | Построить модель машшиного обучения, предсказывающую уход клиента. | *numpy* *pandas* *matplotlib* *seaborn* *re* *statsmodels* *time* *sklearn* *catboost* *tensorflow* *keras* *keras_tuner* *scikeras* |
+| [Предсказание ухода клиента в телекоме](telecom_churn_pred) | Построить модель машиного обучения, предсказывающую уход клиента. | *numpy* *pandas* *matplotlib* *seaborn* *re* *statsmodels* *time* *sklearn* *catboost* *tensorflow* *keras* *keras_tuner* *scikeras* |
