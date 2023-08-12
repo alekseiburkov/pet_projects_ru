@@ -13,6 +13,6 @@
 
 ## Используемые библиотеки
 
-*numpy* *pandas* *matplotlib* *seaborn* *sklearn* *catboost* *keras*
+*numpy* *pandas* *matplotlib* *seaborn* *re* *statmodels* *sklearn* *catboost* *tensorflow* *keras* *keras_tuner* *scikeras*
 
 Ссылка: https://drive.google.com/file/d/1KSnkcbvPrh5GwxvRDXcJYgzus4s0qBZB/view?usp=sharing
