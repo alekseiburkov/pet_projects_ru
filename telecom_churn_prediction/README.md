@@ -15,4 +15,4 @@
 
 *numpy* *pandas* *matplotlib* *seaborn* *re* *statmodels* *sklearn* *catboost* *tensorflow* *keras* *keras_tuner* *scikeras*
 
-Ссылка: https://drive.google.com/file/d/1KSnkcbvPrh5GwxvRDXcJYgzus4s0qBZB/view?usp=sharing
+Ссылка: https://colab.research.google.com/drive/1wrZRp8djCNvwuJ4gg8GdggQ7HNR6yucq?usp=sharing
