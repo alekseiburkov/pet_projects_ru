@@ -6,7 +6,7 @@
 - Общие данные игры
 - Продажи по регионам
 - Оценка критиков и пользователей
-- Рейтингш от ESRB
+- Рейтинг от ESRB
 
 ## Задача
 
@@ -16,4 +16,4 @@
 
 *numpy* *pandas* *matplotlib* *seaborn* *scipy*
 
-Ссылка: https://drive.google.com/file/d/10FyL8fC9e539qg4hXahqnsScXMFbpP_K/view?usp=sharing
+Ссылка: https://colab.research.google.com/drive/1jO636rEPguIlE0TtNZGIXCKnXKqDd4po?usp=sharing
