@@ -16,4 +16,4 @@
 
 *numpy* *pandas* *matplotlib* *seaborn* *sklearn* *catboost*
 
-Ссылка: https://drive.google.com/file/d/1KSnkcbvPrh5GwxvRDXcJYgzus4s0qBZB/view?usp=sharing
+Ссылка: https://colab.research.google.com/drive/1X84etaplFd3zfTcCshwhrbExzd12Z_UG?usp=sharing
